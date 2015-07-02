@@ -1,0 +1,41 @@
+
+mundo Isec1 50 50
+
+minimodepessoas 500
+
+criai 400
+criai 5
+
+criaj 300
+criam 50
+
+pantano 1 1
+pantano 2 2
+
+pantano 1 4
+pantano 3 5
+pantano 5 8
+pantano 6 6
+
+pantano 3 7
+pantano 8 5
+pantano 5 8
+pantano 6 10
+
+hospital 30 5
+hospital 23 6
+hospital 31 10
+hospital 22 8
+hospital 32 5
+hospital 10 6
+
+
+imun 20
+
+infej 3
+
+criacopia Isec2 Isec1
+
+criacopia Isec3 Isec2
+
+apaga Isec3
